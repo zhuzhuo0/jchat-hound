@@ -1,0 +1,28 @@
+{
+  "name": "jchat-hound",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhuzhuo0/jchat-hound.git"
+  },
+  "author": {
+    "name": "zhuzhuo0",
+    "email": "422914219@qq.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuzhuo0/jchat-hound.git/issues"
+  },
+  "main": "jchat-hound.umd.js",
+  "module": "jchat-hound.js",
+  "jsnext:main": "jchat-hound.js",
+  "typings": "jchat-hound.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
