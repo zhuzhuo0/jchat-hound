@@ -1,0 +1,1 @@
+npm run build & xcopy /e /s /y %cd%\dist\*.* %cd%\..\jchat-web\node_modules\jchat-hound
